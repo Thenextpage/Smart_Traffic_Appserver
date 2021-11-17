@@ -14,5 +14,6 @@ We are currently planning to make a GPS calculating server by using EC to virtua
 
 And it will constantly calculates the optimal green light time signal and will send the time results to the raspberry pie client IIs t
 
-<img width="1277" alt="Screen Shot 2021-09-08 at 1 40 09 AM" src="https://user-images.githubusercontent.com/30145956/132381052-d04f3514-d4e7-4b4b-ae9e-4c11f54bb2f9.png">
+<img width="798" alt="132381052-d04f3514-d4e7-4b4b-ae9e-4c11f54bb2f9" src="https://user-images.githubusercontent.com/30145956/142234015-6ae6bd3b-9399-48ee-9883-6528ec9c4077.png">!
 
+![Slide1](https://user-images.githubusercontent.com/30145956/142234482-9253bbf1-b28d-4f42-98ea-78cdd0e32044.jpeg)
